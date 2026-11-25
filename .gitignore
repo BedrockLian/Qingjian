@@ -1,0 +1,41 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+.vs/
+
+# Build & Release Artifacts
+dist/
+*.zip
+*.exe
+*.dll
+*.node
+
+# Local Verification, Notes & Temp Files
+.verification/
+tools/
+*.mp4
+*.mov
+*.mxf
+*.mkv
+*.webm
+*.avi
+*.mp3
+*.wav
+*.flac
+*.gif
+*.qingjian
+*.bak
+*.log
+*.tmp
+
+# Keep documentation screenshots
+!docs/screenshots/*.png
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
